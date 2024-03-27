@@ -1,0 +1,21 @@
+- Industry Sector:
+    - Iron and Steel:
+      - Steel:
+        description: Steel
+    - Non-ferrous Metals:
+      - Aluminum:
+        description: Aluminum
+      - Copper:
+        description: Copper
+    - Non-metallic Minerals:
+      - Cement:
+        description: Aluminum
+      - Glass:
+        description: Copper
+    - Chemicals:
+      - Ammonia:
+        description: Ammonia
+      - High Value Chemicals:
+        description: group of chemicals consisting of ethylene, propylene, butylene and BTEX
+      - Methanol:
+        description: Methanol
