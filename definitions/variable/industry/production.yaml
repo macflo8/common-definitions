@@ -1,23 +1,19 @@
-- Production|Industry|{Sector}|{Commodity}:
+- Production|Industry|{Industry-Sector}:
     description: Production of industrial commodities by sector
     unit: Mt/yr
 
-# examples
-- Production|Bulk Materials:
-    description: Production of bulk materials by all industrial sectors
+- Production|Industry|Iron and Steel|{Iron Commodity}:
+    description: Production of steel commodities
     unit: Mt/yr
-- Production|Steel:
-    description: Production of steel
+- Production|Industry|Non-metallic minerals|{Non-Metallic Minerals Commodity}:
+    description: Production of mineralic commodities
     unit: Mt/yr
-- Production|Non-metallic minerals:
-    description: Production of steel
+- Production|Industry|Non-ferrous metals|{Non-Ferrous Metals Commodity}:
+    description: Production of non ferrous metals
     unit: Mt/yr
-- Production|Non-ferrous metals:
-    description: Production of steel
+- Production|Industry|Chemicals|{Chemicals Commodity}:
+    description: Production of chemical commodities
     unit: Mt/yr
-- Production|Chemicals:
-    description: Production of steel
-    unit: Mt/yr
-- Production|Pulp and Paper:
-    description: Production of steel
+- Production|Industry|Pulp and Paper|{Pulp and Paper Commodity}:
+    description: Production of paper commodities
     unit: Mt/yr
