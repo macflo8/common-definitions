@@ -1,0 +1,15 @@
+- Material Stock|Iron and Steel|{Iron Commodity}:
+    description: Production of steel commodities
+    unit: Mt/yr
+- Material Stock|Non-metallic minerals|{Non-Metallic Minerals Commodity}:
+    description: Production of mineralic commodities
+    unit: Mt/yr
+- Material Stock|Non-ferrous metals|{Non-Ferrous Metals Commodity}:
+    description: Production of non ferrous metals
+    unit: Mt/yr
+- Material Stock|Chemicals|{Chemicals Commodity}:
+    description: Production of chemical commodities
+    unit: Mt/yr
+- Material Stock|Pulp and Paper|{Pulp and Paper Commodity}:
+    description: Production of paper commodities
+    unit: Mt/yr

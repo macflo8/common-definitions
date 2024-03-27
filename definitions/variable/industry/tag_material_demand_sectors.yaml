@@ -1,0 +1,8 @@
+Material demand sector:
+    - Transportation:
+        description: transportation sector excluding international aviation and shipping
+          (see "Bunkers")
+    - Transportation (w/ bunkers):
+        description: transportation sector including international aviation and shipping
+    - Transportation|Bus:
+        description: transportation sector by bus
