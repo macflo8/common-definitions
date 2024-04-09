@@ -1,13 +1,13 @@
 - Non-Ferrous Metals Commodity:
     - Aluminum:
-        description: non-ferrous metals sector
+        description: Metal commonly produced by electrolysis of alumina or re-melting of scrap
     - Secondary Aluminum:
-        description: non-ferrous metals sector
+        description: Aluminum produced from aluminum scrap recycling
     - Primary Aluminum:
-        description: non-ferrous metals sector
+        description: Aluminum produced via Hall-Heroult process from alumina
     - Alumina:
-        description: non-ferrous metals sector
+        description: Aluminum oxide, commonly produced via the Bayer process from bauxite
     - Copper:
-          description: non-ferrous metals sector
+        description: soft and ductile metal with high thermal and electrical conductivity
     - Lithium:
-          description: non-ferrous metals sector
+        description: alkali metal commonly produced through electrolysis of LiCl, mainly used for electrochemical energy storage
