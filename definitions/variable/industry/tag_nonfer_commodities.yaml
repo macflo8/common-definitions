@@ -1,6 +1,12 @@
 - Non-Ferrous Metals Commodity:
     - Aluminum:
         description: non-ferrous metals sector
+    - Secondary Aluminum:
+        description: non-ferrous metals sector
+    - Primary Aluminum:
+        description: non-ferrous metals sector
+    - Alumina:
+        description: non-ferrous metals sector
     - Copper:
           description: non-ferrous metals sector
     - Lithium:

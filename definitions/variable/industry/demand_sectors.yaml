@@ -1,11 +1,11 @@
-- Non-Metallic Minerals Commodity:
-    - Cement:
+Demand Sector:
+    - Power Sector:
         description: non-metallic minerals sector
-    - Limestone:
+    - Transportation:
         description: non-metallic minerals sector
-    - Clinker:
+    - Residential and Commercial:
         description: non-metallic minerals sector
-    - Glass:
+    - Infrastructure:
         description: non-metallic minerals sector
-    - Bricks:
-          description: non-metallic minerals sector
+    - Pre-Consumer Scrap:
+        description: non-metallic minerals sector
