@@ -2,14 +2,14 @@ Demand Sector:
     - Electricity:
         description:  material demand for construction/maintenance of electricity generation
     - Electricity|{Generation Technology}:
-          description: material demand for construction/maintenance of electricity generation by technology
+          description: material demand of electricity generation by technology
     - Electricity|Distribution:
-          description: material demand for construction/maintenance of electricity distribution
+          description: material demand of electricity distribution
     - Transportation:
-        description: material demand for construction of transport equipment
+        description: material demand in the transport sector
     - Residential and Commercial:
-        description: material demand for construction of residential and commercial buildings
-    - Infrastructure:
+        description: material demand of residential and commercial sector
+    - Infrastructure: # RFE: needs more differentiation
         description: material demand for construction of infrastructure
-    - Pre-Consumer Scrap:
+    - Pre-Consumer Scrap: # RFE: copied from NAVIGATE template; do we want to keep this here?
         description: ???
