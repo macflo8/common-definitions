@@ -1,0 +1,15 @@
+Demand Sector:
+    - Electricity:
+        description:  material demand for construction/maintenance of electricity generation
+    - Electricity|{Generation Technology}:
+          description: material demand for construction/maintenance of electricity generation by technology
+    - Electricity|Distribution:
+          description: material demand for construction/maintenance of electricity distribution
+    - Transportation:
+        description: material demand for construction of transport equipment
+    - Residential and Commercial:
+        description: material demand for construction of residential and commercial buildings
+    - Infrastructure:
+        description: material demand for construction of infrastructure
+    - Pre-Consumer Scrap:
+        description: ???
