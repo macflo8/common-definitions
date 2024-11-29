@@ -36,23 +36,3 @@
           but from a recycling process or from the processing of waste streams from
           primary production
         tier: "3"
-    - Lithium:
-        description: lithium
-        tier: "2"
-    - Lithium|Primary:
-        description: lithium extracted from minerals and free of reclaimed metal scrap
-        tier: "3"
-    - Lithium|Secondary:
-        description: lithium that does not directly originate from a primary mineral
-          but from a recycling process or from the processing of waste streams from
-          primary production
-        tier: "3"
-    - Nickel:
-        description: nickel
-        tier: "2"
-    - Graphite:
-        description: graphite
-        tier: "2"
-    - Manganese:
-        description: manganese
-        tier: "2"
