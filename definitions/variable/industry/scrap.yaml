@@ -1,32 +1,52 @@
+- Collected Scrap|Iron and Steel|Steel:
+    description: Collected steel scrap
+    unit: Mt/yr
+- Collected Scrap|Non-Metallic Minerals|Cement:
+    description: Collected cement scrap
+    unit: Mt/yr
+- Collected Scrap|Non-Ferrous Metals|Aluminum:
+    description: Collected aluminum scrap
+    unit: Mt/yr
+- Collected Scrap|Non-Ferrous Metals|Copper:
+    description: Collected copper scrap
+    unit: Mt/yr
 
 - Collected Scrap|Iron and Steel|Steel|{Demand Sector}:
-    description: steel scrap from {Demand Sector}"
+    description: Collected steel scrap from {Demand Sector}
     unit: Mt/yr
-- Collected Scrap|Non-Metallic Minerals|{Non-Metallic Minerals Commodity}|{Demand Sector}:
-    description: Collected {Non-Metallic Minerals Commodity} scrap from {Demand Sector}"
+- Collected Scrap|Non-Metallic Minerals|Cement|{Demand Sector}:
+    description: Collected cement scrap from {Demand Sector}
     unit: Mt/yr
-- Collected Scrap|Non-Ferrous Metals|{Non-Ferrous Metals Commodity}|{Demand Sector}:
-    description: Collected {Non-Ferrous Metals Commodity} scrap from {Demand Sector}"
+- Collected Scrap|Non-Ferrous Metals|Aluminum|{Demand Sector}:
+    description: Collected aluminum scrap from {Demand Sector}
     unit: Mt/yr
-- Collected Scrap|Chemicals|{Chemicals Commodity}|{Demand Sector}: # ??? Maybe "Plastic" commodity?
-    description: Collected {Chemicals Commodity} scrap from {Demand Sector}"
+- Collected Scrap|Non-Ferrous Metals|Copper|{Demand Sector}:
+    description: Collected copper scrap from {Demand Sector}
     unit: Mt/yr
-- Collected Scrap|Pulp and Paper|{Pulp and Paper Commodity}|{Demand Sector}:
-    description: Collected {Pulp and Paper Commodity} scrap from {Demand Sector}"
+
+
+- Total Scrap|Iron and Steel|Steel:
+    description: Total steel scrap
+    unit: Mt/yr
+- Total Scrap|Non-Metallic Minerals|Cement:
+    description: Total cement scrap
+    unit: Mt/yr
+- Total Scrap|Non-Ferrous Metals|Aluminum:
+    description: Total aluminum scrap
+    unit: Mt/yr
+- Total Scrap|Non-Ferrous Metals|Copper:
+    description: Total copper scrap
     unit: Mt/yr
 
 - Total Scrap|Iron and Steel|Steel|{Demand Sector}:
-    description: Steel scrap from {Demand Sector}"
+    description: Total steel scrap from {Demand Sector}
     unit: Mt/yr
-- Total Scrap|Non-Metallic Minerals|{Non-Metallic Minerals Commodity}|{Demand Sector}:
-    description: "{Non-Metallic Minerals Commodity} scrap from {Demand Sector}"
+- Total Scrap|Non-Metallic Minerals|Cement|{Demand Sector}:
+    description: Total cement scrap from {Demand Sector}
     unit: Mt/yr
-- Total Scrap|Non-Ferrous Metals|{Non-Ferrous Metals Commodity}|{Demand Sector}:
-    description: "{Non-Ferrous Metals Commodity} scrap from {Demand Sector}"
+- Total Scrap|Non-Ferrous Metals|Aluminum|{Demand Sector}:
+    description: Total aluminum scrap from {Demand Sector}
     unit: Mt/yr
-- Total Scrap|Chemicals|{Chemicals Commodity}|{Demand Sector}: # ??? Maybe "Plastic" commodity?
-    description: "{Chemicals Commodity} scrap from {Demand Sector}"
-    unit: Mt/yr
-- Total Scrap|Pulp and Paper|{Pulp and Paper Commodity}|{Demand Sector}:
-    description: "{Pulp and Paper Commodity} scrap from {Demand Sector}"
+- Total Scrap|Non-Ferrous Metals|Copper|{Demand Sector}:
+    description: Total copper scrap from {Demand Sector}
     unit: Mt/yr

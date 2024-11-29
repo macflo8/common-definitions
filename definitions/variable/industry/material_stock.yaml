@@ -1,33 +1,27 @@
 # Material stocks by commodity
-- Material Stock|Iron and Steel|{Iron Commodity}:
-    description: Material stock of steel commodities
-    unit: Mt/yr
-- Material Stock|Non-Metallic Minerals|{Non-Metallic Minerals Commodity}:
-    description: Material stock of mineral commodities
-    unit: Mt/yr
-- Material Stock|Non-Ferrous Metals|{Non-Ferrous Metals Commodity}:
-    description: Material stock of {Non-Ferrous Metals Commodity}
-    unit: Mt/yr
-#- Material Stock|Chemicals|{Chemicals Commodity}:
-#    description: Material stock of {Chemicals Commodity}
-#    unit: Mt/yr
-#- Material Stock|Pulp and Paper|{Pulp and Paper Commodity}:
-#    description: Material stock of {Chemicals Commodity}
-#    unit: Mt/yr
+- Material Stock|Iron and Steel|Steel:
+    description: Material stock of steel
+    unit: Mt
+- Material Stock|Non-Metallic Minerals|Cement:
+    description: Material stock of cement
+    unit: Mt
+- Material Stock|Non-Ferrous Metals|Aluminum:
+    description: Material stock of aluminum
+    unit: Mt
+- Material Stock|Non-Ferrous Metals|Copper:
+    description: Material stock of copper
+    unit: Mt
 
 # Material stocks by commodity and consumption sector
-- Material Stock|Iron and Steel|{Iron Commodity}|{Demand Sector}:
-    description: Material stock of {Iron Commodity} in {Demand Sector} sector
-    unit: Mt/yr
-- Material Stock|Non-Metallic Minerals|{Non-Metallic Minerals Commodity}|{Demand Sector}:
-    description: Material stock of {Non-Metallic Minerals Commodity} in {Demand Sector} sector
-    unit: Mt/yr
-- Material Stock|Non-Ferrous Metals|{Non-Ferrous Metals Commodity}|{Demand Sector}:
-    description: Material stock of {Non-Ferrous Metals Commodity} in {Demand Sector} sector
-    unit: Mt/yr
-#- Material Stock|Chemicals|{Chemicals Commodity}|{Demand Sector}:
-#    description: Material stock of {Chemicals Commodity} in {Demand Sector} sector
-#    unit: Mt/yr
-#- Material Stock|Pulp and Paper|{Pulp and Paper Commodity}|{Demand Sector}:
-#    description: Material stock of {Pulp and Paper Commodity} in {Demand Sector} sector
-#    unit: Mt/yr
+- Material Stock|Iron and Steel|Steel|{Demand Sector}:
+    description: Material stock of steel in the {Demand Sector}
+    unit: Mt
+- Material Stock|Non-Metallic Minerals|Cement|{Demand Sector}:
+    description: Material stock of cement in the {Demand Sector}
+    unit: Mt
+- Material Stock|Non-Ferrous Metals|Aluminum|{Demand Sector}:
+    description: Material stock of aluminum in the {Demand Sector}
+    unit: Mt
+- Material Stock|Non-Ferrous Metals|Copper|{Demand Sector}:
+    description: Material stock of copper in the {Demand Sector}
+    unit: Mt
