@@ -1,28 +1,28 @@
-- Collected Scrap|Iron and Steel|Steel:
-    description: Collected steel scrap
-    unit: Mt/yr
-- Collected Scrap|Non-Metallic Minerals|Cement:
-    description: Collected cement scrap
-    unit: Mt/yr
-- Collected Scrap|Non-Ferrous Metals|Aluminum:
-    description: Collected aluminum scrap
-    unit: Mt/yr
-- Collected Scrap|Non-Ferrous Metals|Copper:
-    description: Collected copper scrap
-    unit: Mt/yr
-
-- Collected Scrap|Iron and Steel|Steel|{Demand Sector}:
-    description: Collected steel scrap from {Demand Sector}
-    unit: Mt/yr
-- Collected Scrap|Non-Metallic Minerals|Cement|{Demand Sector}:
-    description: Collected cement scrap from {Demand Sector}
-    unit: Mt/yr
-- Collected Scrap|Non-Ferrous Metals|Aluminum|{Demand Sector}:
-    description: Collected aluminum scrap from {Demand Sector}
-    unit: Mt/yr
-- Collected Scrap|Non-Ferrous Metals|Copper|{Demand Sector}:
-    description: Collected copper scrap from {Demand Sector}
-    unit: Mt/yr
+#- Collected Scrap|Iron and Steel|Steel:
+#    description: Collected steel scrap
+#    unit: Mt/yr
+#- Collected Scrap|Non-Metallic Minerals|Cement:
+#    description: Collected cement scrap
+#    unit: Mt/yr
+#- Collected Scrap|Non-Ferrous Metals|Aluminum:
+#    description: Collected aluminum scrap
+#    unit: Mt/yr
+#- Collected Scrap|Non-Ferrous Metals|Copper:
+#    description: Collected copper scrap
+#    unit: Mt/yr
+#
+#- Collected Scrap|Iron and Steel|Steel|{Demand Sector}:
+#    description: Collected steel scrap from {Demand Sector}
+#    unit: Mt/yr
+#- Collected Scrap|Non-Metallic Minerals|Cement|{Demand Sector}:
+#    description: Collected cement scrap from {Demand Sector}
+#    unit: Mt/yr
+#- Collected Scrap|Non-Ferrous Metals|Aluminum|{Demand Sector}:
+#    description: Collected aluminum scrap from {Demand Sector}
+#    unit: Mt/yr
+#- Collected Scrap|Non-Ferrous Metals|Copper|{Demand Sector}:
+#    description: Collected copper scrap from {Demand Sector}
+#    unit: Mt/yr
 
 
 - Total Scrap|Iron and Steel|Steel:
