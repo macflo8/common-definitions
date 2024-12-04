@@ -15,11 +15,11 @@
 - Final Energy|Non-Energy Use:
     description: Final energy consumption in non-combustion processes
     unit: EJ/yr
-    tier: 2
+    tier: 1
 - Final Energy|Non-Energy Use|{Secondary Fuel Level 2}:
     description: Final energy consumption of {Secondary Fuel Level 2} in non-combustion processes
     unit: EJ/yr
-    tier: 2
+    tier: 1
 - Final Energy|Non-Energy Use|Waste:
     description: Final energy consumption of non-renewable waste in non-combustion processes
     unit: EJ/yr

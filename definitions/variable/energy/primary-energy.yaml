@@ -59,50 +59,63 @@
 - Primary Energy|Biomass|Electricity:
     description: Primary energy input of biomass for electricity generation
     unit: EJ/yr
+    tier: 2
 - Primary Energy|Biomass|Electricity|{CCS}:
     description: Primary energy input of biomass for electricity generation {CCS}
     unit: EJ/yr
+    tier: 2
 - Primary Energy|Biomass|{Secondary Fuel Level 1}:
     description: Primary energy input of biomass for conversion to {Secondary Fuel Level 1}
     unit: EJ/yr
+    tier: 2
 - Primary Energy|Biomass|{Secondary Fuel Level 1}|{CCS}:
     description: Primary energy input of biomass for conversion to {Secondary Fuel Level 1} {CCS}
     unit: EJ/yr
+    tier: 3
 
 - Primary Energy|Non-Biomass Renewables:
     description: Primary energy consumption of renewable energy exluding biomass
     unit: EJ/yr
+    tier: 1
 - Primary Energy|{Primary Non-Biomass Renewables}:
     description: Primary energy consumption of {Primary Non-Biomass Renewables}
     unit: EJ/yr
+    tier: 1
 
 - Primary Energy|Nuclear:
     description: Primary energy consumption of nuclear power (direct equivalent),
       includes electricity, heat and hydrogen production from nuclear energy)
     unit: EJ/yr
+    tier: 1
 
 - Primary Energy|{Primary Fossil Fuel}:
     description: Primary energy consumption of {Primary Fossil Fuel}
     unit: EJ/yr
+    tier: 1
 - Primary Energy|{Primary Fossil Fuel}|{CCS}:
     description: Primary energy consumption of {Primary Fossil Fuel} {CCS}
     unit: EJ/yr
+    tier: 2
 - Primary Energy|{Primary Fossil Fuel}|Electricity:
     description: Primary energy consumption of {Primary Fossil Fuel}
       for electricity generation
     unit: EJ/yr
+    tier: 2
 - Primary Energy|{Primary Fossil Fuel}|Electricity|{CCS}:
     description: Primary energy consumption of {Primary Fossil Fuel}
       for electricity generation {CCS}
     unit: EJ/yr
+    tier: 2
 - Primary Energy|{Primary Fossil Fuel}|{Secondary Fuel Level 1}:
     description: Primary energy consumption of {Primary Fossil Fuel}
       for conversion to {Secondary Fuel Level 1}
     unit: EJ/yr
+    tier: 2
 - Primary Energy|{Primary Fossil Fuel}|{Secondary Fuel Level 1}|{CCS}:
     description: Primary energy consumption of {Primary Fossil Fuel} for
       conversion to {Secondary Fuel Level 1} {CCS}
     unit: EJ/yr
+    tier: 3
 
 - Primary Energy|Secondary Energy Trade:
     description: Primary energy consumption from trade in secondary energy carriers that
@@ -110,8 +123,10 @@
       e.g. electricity, hydrogen
     notes: Negative values indicate net exports of an energy carrier
     unit: EJ/yr
+    tier: 3
 
 - Primary Energy|Other:
     description: Primary energy consumption from sources that do not fit any other
       category (direct equivalent)
     unit: EJ/yr
+    tier: 1
